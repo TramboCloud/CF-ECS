@@ -6,5 +6,5 @@ You can launch this CloudFormation stack in your account:
 
 | AWS Region | Short name | |
 | -- | -- | -- |
-| US East (N. Virginia) | us-east-1 | [![cloudformation-launch-button](images/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=Production&templateURL=https://s3.amazonaws.com/assets.trambo.cloud/examples/ecs/master.yaml) |
-| US West (Oregon) | us-west-2 | [![cloudformation-launch-button](images/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/new?stackName=Production&templateURL=https://s3.amazonaws.com/assets.trambo.cloud/examples/ecs/master.yaml) |
+| US East (N. Virginia) | us-east-1 | [![cloudformation-launch-button](images/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=Trambo-ECS&templateURL=https://s3.amazonaws.com/assets.trambo.cloud/examples/ecs/master.yaml) |
+| US West (Oregon) | us-west-2 | [![cloudformation-launch-button](images/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/new?stackName=Trambo-ECS&templateURL=https://s3.amazonaws.com/assets.trambo.cloud/examples/ecs/master.yaml) |
